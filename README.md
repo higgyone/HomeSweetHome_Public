@@ -10,3 +10,5 @@ Modules used for this:
 * Digilent Pmod CMPS2 -  Memsic's MMC34160PJ
 * MDOB128128CV-WS OLED module
 * GNSS 4 click Mikroe-2045 breakout for SAM-M8Q patch antenna module from u-blox
+
+This is the released code for the project, it is hacky in places and will probably not be updated unless there are long term issues and changes requested by the user.
